@@ -3,7 +3,7 @@
 u_max 0.18; //x_velocity at the top of the inlet linear gradient
 u_jet -1.0; //y_velocity at the top of the system. represents a jet of water being applied to the system.
 sigma 1e-3; //surface tension
-bf_thickness 42e-6; //biofilm thickness in metres
+bf_thickness 60e-6; //biofilm thickness in metres
 bf_length 500e-6; //length of biofilm in metres
 
 //// various d settings //////////
